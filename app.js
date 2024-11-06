@@ -1,4 +1,4 @@
-const apiUrl = 'https://u0pz6odn27.execute-api.ap-southeast-1.amazonaws.com/PRODUCTION/zerefapi';
+const apiUrl = 'YOUR_API_INVOKE_URL';
 
 async function fetchTodos() {
     try {
